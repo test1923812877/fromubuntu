@@ -1,0 +1,221 @@
+[33mcommit 58d0613e844abe56d00b1ce1f79a9441067ba6c1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: tyscss <noemail>
+Date:   Fri Jul 27 15:59:42 2018 +0800
+
+    added hello asdf
+
+[33mcommit db4207df2c2eaf5f30aedfb84b182989d7738dfb[m
+Merge: 96eeb4f f414ec0
+Author: tyscss <noemail>
+Date:   Fri Jul 27 15:43:50 2018 +0800
+
+    resolved conflict
+
+[33mcommit 96eeb4fc256d51156ed06c80a0b1acc0abb0e170[m
+Author: tyscss <noemail>
+Date:   Fri Jul 27 15:32:39 2018 +0800
+
+    update shared on CML
+
+[33mcommit f414ec09b392d4f0a1d20a10973f41b3ab4a777b[m
+Author: tyscss <41673619+tyscss@users.noreply.github.com>
+Date:   Fri Jul 27 15:31:04 2018 +0800
+
+    Update shared
+
+[33mcommit 3f68e0b4bece0d59f01faa566e22ce6946099575[m
+Author: tyscss <noemail>
+Date:   Fri Jul 27 15:30:14 2018 +0800
+
+    add shared
+
+[33mcommit d5094d8c95f61ec222a28cfc28d8fb2a5e64604c[m
+Merge: 236b5fc cc96d3f
+Author: tyscss <noemail>
+Date:   Wed Jul 25 08:08:26 2018 +0800
+
+    get guiMerge branch 'master' of https://github.com/tyscss/fromubuntu
+
+[33mcommit cc96d3f1c373e07fcc78906f3e1b5cb28dbc11ef[m
+Author: tyscss <41673619+tyscss@users.noreply.github.com>
+Date:   Fri Jul 27 15:18:40 2018 +0800
+
+    Create gui
+
+[33mcommit 236b5fc544512a94ea81a5d04135928f5da78071[m
+Author: tyscss <noemail>
+Date:   Wed Jul 25 08:07:45 2018 +0800
+
+    cml
+
+[33mcommit 173505c60cf9e81525586d63188ae7f907d54323[m
+Author: another <noemail>
+Date:   Wed Jul 25 06:37:49 2018 +0800
+
+    reverted
+
+[33mcommit ab4ce44215642f3d6ac73539e7dc87c1ede665aa[m[33m ([m[1;31morigin/new[m[33m)[m
+Author: tyscss <41673619+tyscss@users.noreply.github.com>
+Date:   Fri Jul 27 12:01:36 2018 +0800
+
+    Update README.md
+
+[33mcommit fc842f859f65043edf87c55b297e7420b4c74f46[m[33m ([m[1;32masdf[m[33m)[m
+Author: another <noemail>
+Date:   Wed Jul 25 04:58:57 2018 +0800
+
+    deleted test files
+
+[33mcommit c14cb734aaeae6e0472679ec0d08c75b66668205[m
+Author: another <noemail>
+Date:   Wed Jul 25 04:10:16 2018 +0800
+
+    zz
+
+[33mcommit 4ae92be21a1f92a1d5e16ab6b745f0c39f692412[m
+Author: another <noemail>
+Date:   Wed Jul 25 03:34:41 2018 +0800
+
+    added it back
+
+[33mcommit d717eebc7908f0fbf2f68f9b958c32491836b440[m
+Author: another <noemail>
+Date:   Wed Jul 25 03:33:25 2018 +0800
+
+    rm
+
+[33mcommit 42fdb0aefd2adb2e5b3d0e99bfe16c8c611ddecc[m
+Author: another <noemail>
+Date:   Wed Jul 25 03:27:27 2018 +0800
+
+    add asd back
+
+[33mcommit ead1a648d0f1120aff9353f49105bb5f842d4251[m
+Author: another <noemail>
+Date:   Wed Jul 25 03:26:51 2018 +0800
+
+    asd gone
+
+[33mcommit 3826172122de3df93e6dc262fdbddb621e4e5016[m
+Author: another <noemail>
+Date:   Wed Jul 25 03:25:53 2018 +0800
+
+    asd
+
+[33mcommit 65aedd669610e97817467e42e3a4dd311f34fd0e[m
+Author: another <noemail>
+Date:   Wed Jul 25 03:17:54 2018 +0800
+
+    at this point
+
+[33mcommit 46989507cefdb0085c8a826ade8068d88c94c2d0[m
+Author: another <noemail>
+Date:   Wed Jul 25 03:10:00 2018 +0800
+
+    hi
+
+[33mcommit 1950b7746d4f49370ba131b5d5ff6b1c3fa275fa[m
+Author: another <noemail>
+Date:   Wed Jul 25 01:55:26 2018 +0800
+
+    anothe rocmmit
+
+[33mcommit 3340cf02621d0ac533ea1d7aba390f714715ebd1[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 22:52:57 2018 +0800
+
+    t
+
+[33mcommit e777ecb090e3f53706778d76b92f3bab8c667d0e[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 22:52:06 2018 +0800
+
+    test
+
+[33mcommit 22dff8c2e572022e72a8e48ecc9bc8c1bc321631[m
+Merge: bacc734 2431180
+Author: test1923812877 <41673619+test1923812877@users.noreply.github.com>
+Date:   Thu Jul 26 11:44:36 2018 +0800
+
+    Merge pull request #1 from test1923812877/update-readme
+    
+    personal readme
+
+[33mcommit 2431180903fbf12e5974fb513541896666b2f17b[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 21:14:47 2018 +0800
+
+    personal readme
+
+[33mcommit bacc73456ae865f5b54e27b713afd7f0423da573[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 21:11:11 2018 +0800
+
+    again2
+
+[33mcommit dab79efdcba50afc5de6c8a3a0d9ef0ce86f67b6[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 21:09:51 2018 +0800
+
+    again
+
+[33mcommit b7578e42e7b3099ba83f7fbe1913a12cc626bf9f[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 21:08:23 2018 +0800
+
+    editreadmemd
+
+[33mcommit 7d334c493fb625cdad347f6deb0aa04dbceca37d[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 21:05:41 2018 +0800
+
+    Added README.md and ddeleted readme.txt
+
+[33mcommit 548f4103be0b738d0d0610fb402f1f14f2d2d875[m
+Merge: 0e7aeaf 20d2756
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 20:40:24 2018 +0800
+
+    Resolved conflict
+
+[33mcommit 0e7aeaf5686e69fc59350470914142729c172198[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 20:37:44 2018 +0800
+
+    changed sunny to windy
+
+[33mcommit 20d275643347c681f2b22b04cd14d00dc5594b66[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 20:37:05 2018 +0800
+
+    changed sunny to cloud
+
+[33mcommit 4817c16b38222a894207d5e5334f9236f06fe82e[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 20:31:23 2018 +0800
+
+    weather
+
+[33mcommit 7be6a03800f3a6fb1e8aea9f1f6a1123dc4243ee[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 20:28:33 2018 +0800
+
+    added 3rd line to readmetxt
+
+[33mcommit 87e402c0e1bef658c743a73220347ca64248eb7c[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 20:03:04 2018 +0800
+
+    added gitignore
+
+[33mcommit 66f336f74374bff0958108910bf780235ac1c3af[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 19:57:35 2018 +0800
+
+    added two files
+
+[33mcommit 24929ec09a63b6a7d7d3309a1bdb2b1b6bc665a5[m
+Author: test1923812877 <tyscss@gmail.com>
+Date:   Tue Jul 24 19:53:16 2018 +0800
+
+    added readme.txt
